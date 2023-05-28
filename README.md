@@ -17,7 +17,9 @@ ALGORITHM :
 
 
 PROGRAM :
+
 CLIENT:
+
 ```
 import socket
 s=socket.socket()
@@ -35,7 +37,9 @@ while True:
         c.close()
         break
 ```
+
 SERVER:
+
 ```
 import socket
 s=socket.socket()
@@ -48,10 +52,13 @@ while True:
 
 
 OUTPUT:
+
 CLIENT OUTPUT:
+
 ![CLIENT OUTPUT](https://github.com/NAVEENKUMAR4325/19CS406-EX-1/assets/119479566/e73791ab-2d46-4bd4-b9f3-01c420219f03)
 
 SERVER OUTPUT:
+
 ![SERVER OUTPUT](https://github.com/NAVEENKUMAR4325/19CS406-EX-1/assets/119479566/8c4c9eda-eb7f-4cfc-82c0-11afd2d1627f)
 
 
